@@ -65,3 +65,7 @@ mongo_data/
 
 # requests
 requests/
+
+# redis stuffs
+
+redis_data/
